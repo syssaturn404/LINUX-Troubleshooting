@@ -9,6 +9,7 @@
 | |✅ [FIX: Unable to lock directory](https://github.com/syssaturn404/LINUX-Troubleshooting/blob/master/Apt/Configuration/FIX:%20Front-Locked.md)|
 | Dekstop  |✅ [Gnome Extension Not Enable](https://github.com/syssaturn404/LINUX-Troubleshooting/blob/master/Dekstop/Gnome.md)| 
 | |✅ [Login Incorrect](https://github.com/syssaturn404/LINUX-Troubleshooting/blob/master/Dekstop/how-to-change-password%3F.md)|
+| |✅ [FIX: Frezee On UBUNTU](https://github.com/syssaturn404/LINUX-Troubleshooting/blob/master/Dekstop/Hang(Frezee)UBUNTU.md)|
 | Network  |✅ [Service NetworkManager disable](https://github.com/syssaturn404/LINUX-Troubleshooting/blob/master/Network/restoring-network.md)|
 
 ### DONATE ?
