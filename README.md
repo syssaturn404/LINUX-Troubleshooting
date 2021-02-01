@@ -1,16 +1,18 @@
 ###  :octocat:Syssaturn404 Repo:dizzy:
 ![Syssaturn Repo](https://github.com/syssaturn404/LINUX-Troubleshooting/blob/master/roadmap-troubleshoot.jpg)
 
-| Jenis Troubleshoot | Troubleshoot |
-| ------------------ | ------------ |
-| APT      |✅ [Software Center](https://github.com/syssaturn404/LINUX-Troubleshooting/blob/master/Apt/GUI/software-center.md)|
+|                 Jenis Troubleshoot                                     |                      TROUBLESHOOT                                      |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| APT      |✅ [Software Center](https://github.com/syssaturn404/LINUX-Troubleshooting/blob/master/Apt/GUI/software-center.md)                     |
 | |✅ [Configured Multiple Times](https://github.com/syssaturn404/LINUX-Troubleshooting/blob/master/Apt/Configuration/configured-multiple-times.md)|
-| |✅ [Run Exe On LINUX](https://github.com/syssaturn404/LINUX-Troubleshooting/blob/master/Apt/Configuration/how-to-run-exe-on-linux%3F.md)|
-| |✅ [FIX: Unable to lock directory](https://github.com/syssaturn404/LINUX-Troubleshooting/blob/master/Apt/Configuration/FIX:%20Front-Locked.md)|
-| Dekstop  |✅ [Gnome Extension Not Enable](https://github.com/syssaturn404/LINUX-Troubleshooting/blob/master/Dekstop/Gnome.md)| 
-| |✅ [Login Incorrect](https://github.com/syssaturn404/LINUX-Troubleshooting/blob/master/Dekstop/how-to-change-password%3F.md)|
-| |✅ [FIX: Frezee On UBUNTU](https://github.com/syssaturn404/LINUX-Troubleshooting/blob/master/Dekstop/Hang(Frezee)UBUNTU.md)|
-| Network  |✅ [Service NetworkManager disable](https://github.com/syssaturn404/LINUX-Troubleshooting/blob/master/Network/restoring-network.md)|
+| |✅ [Run Exe On LINUX](https://github.com/syssaturn404/LINUX-Troubleshooting/blob/master/Apt/Configuration/how-to-run-exe-on-linux%3F.md)        |
+| |✅ [FIX: Unable to lock directory](https://github.com/syssaturn404/LINUX-Troubleshooting/blob/master/Apt/Configuration/FIX:%20Front-Locked.md)  |
+| |✅ [FIX: No Spaces No space left on device](https://github.com/syssaturn404/LINUX-Troubleshooting/blob/master/Apt/Configuration/FIX:%20No%20spaces%20left%20on%20devices.md)                                                                                                      |
+| Dekstop  |✅ [Gnome Extension Not Enable](https://github.com/syssaturn404/LINUX-Troubleshooting/blob/master/Dekstop/Gnome.md)                    | 
+| |✅ [Login Incorrect](https://github.com/syssaturn404/LINUX-Troubleshooting/blob/master/Dekstop/how-to-change-password%3F.md)                    |
+| |✅ [FIX: Frezee On UBUNTU](https://github.com/syssaturn404/LINUX-Troubleshooting/blob/master/Dekstop/Hang(Frezee)UBUNTU.md)                     |
+| |✅ [FIX: No GUI](https://github.com/syssaturn404/LINUX-Troubleshooting/blob/master/Dekstop/No%20GUI.md)                                         |
+| Network  |✅ [Service NetworkManager disable](https://github.com/syssaturn404/LINUX-Troubleshooting/blob/master/Network/restoring-network.md)    |
 
 ### DONATE ?
 
